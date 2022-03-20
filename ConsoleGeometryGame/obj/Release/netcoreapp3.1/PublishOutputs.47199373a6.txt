@@ -1,0 +1,5 @@
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Release\netcoreapp3.1\publish\ConsoleGeometryGame.exe
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Release\netcoreapp3.1\publish\ConsoleGeometryGame.dll
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Release\netcoreapp3.1\publish\ConsoleGeometryGame.deps.json
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Release\netcoreapp3.1\publish\ConsoleGeometryGame.runtimeconfig.json
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Release\netcoreapp3.1\publish\ConsoleGeometryGame.pdb
