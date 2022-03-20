@@ -1,0 +1,14 @@
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Debug\netcoreapp3.1\ConsoleGeometryGame.exe
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Debug\netcoreapp3.1\ConsoleGeometryGame.deps.json
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Debug\netcoreapp3.1\ConsoleGeometryGame.runtimeconfig.json
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Debug\netcoreapp3.1\ConsoleGeometryGame.runtimeconfig.dev.json
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Debug\netcoreapp3.1\ConsoleGeometryGame.dll
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\bin\Debug\netcoreapp3.1\ConsoleGeometryGame.pdb
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\obj\Debug\netcoreapp3.1\ConsoleGeometryGame.csproj.AssemblyReference.cache
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\obj\Debug\netcoreapp3.1\ConsoleGeometryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\obj\Debug\netcoreapp3.1\ConsoleGeometryGame.AssemblyInfoInputs.cache
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\obj\Debug\netcoreapp3.1\ConsoleGeometryGame.AssemblyInfo.cs
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\obj\Debug\netcoreapp3.1\ConsoleGeometryGame.csproj.CoreCompileInputs.cache
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\obj\Debug\netcoreapp3.1\ConsoleGeometryGame.dll
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\obj\Debug\netcoreapp3.1\ConsoleGeometryGame.pdb
+C:\Users\horos\source\repos\ConsoleGeometryGame\ConsoleGeometryGame\obj\Debug\netcoreapp3.1\ConsoleGeometryGame.genruntimeconfig.cache
